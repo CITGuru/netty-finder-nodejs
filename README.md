@@ -22,7 +22,7 @@ $ npm install netty_finder
 
 ```js
 
-const Network = require('./index.js')
+const Network = require('netty_finder')
 
 let detector = new Network("08155737518"),
 network = detector.getNetworkName()

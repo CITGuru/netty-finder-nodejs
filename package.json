@@ -1,6 +1,6 @@
 {
   "name": "netty_finder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a nodejs version of netty-finder written in javascript",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/CITGuru/netty-finder-nodejs.git"
   },
-  "author": "Oyetoke Toby",
+  "author": "[Oyetoke Toby](http://medium.com/@oyetoketoby80) <oyetoketoby80@gmail.com>",
+  "keywords": [
+    "phone","number", "network"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/CITGuru/netty-finder-nodejs/issues"
