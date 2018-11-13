@@ -29,7 +29,7 @@ network = detector.getNetworkName()
 
 console.log(network)
 
-$>> 9mobile
+$>>s 9mobile
 
 ```
 
