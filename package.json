@@ -1,0 +1,19 @@
+{
+  "name": "netty_finder",
+  "version": "1.0.0",
+  "description": "This is a nodejs version of netty-finder written in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CITGuru/netty-finder-nodejs.git"
+  },
+  "author": "Oyetoke Toby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CITGuru/netty-finder-nodejs/issues"
+  },
+  "homepage": "https://github.com/CITGuru/netty-finder-nodejs#readme"
+}
